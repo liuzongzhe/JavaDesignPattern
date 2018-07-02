@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AbstractFactoryPattern" />
+        <module name="AdapterPattern" />
+        <module name="BridgePattern" />
+        <module name="BuilderPattern" />
+        <module name="ChainOfResponsibilityPattern" />
+        <module name="ComandPattern" />
+        <module name="CompositePattern" />
+        <module name="DecoratorPattern" />
+        <module name="FacadePattern" />
+        <module name="FactoryPattern" />
+        <module name="FlyweightPattern" />
+        <module name="ObserverPattern" />
+        <module name="PrototypePattern" />
+        <module name="ProxyPattern" />
+        <module name="SinglePattern" />
+        <module name="StrategyPattern" />
+        <module name="TemplateMethodPattern" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
